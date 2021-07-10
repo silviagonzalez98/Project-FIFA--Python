@@ -12,12 +12,11 @@
 
 
 ## Libraries 
-For this project, I used Python including following libraries.
-
-pandas
-matplotlib
-seaborn
-scipy.stats
-os
-statsmodels.api
-sklearn
+For this project, I used Python including following libraries:
+- pandas
+- matplotlib
+- seaborn
+- scipy.stats
+- os
+- statsmodels.api
+- sklearn
