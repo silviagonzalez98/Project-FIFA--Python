@@ -15,7 +15,7 @@ The data has been analyzed and and then properly categorized.
 2) Finally normalized the dataframe
 
 ### Linear Regression Results
-Positively, the result of the Linear Regression Model has been of 0.9, maintaining more than 50% of the original columns in order to not lose much data.
+Positively, the result of the Linear Regression Model has been of 0.9, maintaining more than 50% of the original columns in order to not lose a high amount of data.
 
 ## Libraries 
 For this project, I used Python including following libraries:
