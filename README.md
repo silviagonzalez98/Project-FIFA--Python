@@ -1,9 +1,8 @@
 # FIFA Project
 
 ## Objective of the project
-
-## List of questions/hypothesis
-
+- Understand all the python concepts and apply them in a real data project
+- Create a linear regression model to predict the market value of a player
 
 ## Explanation of how the data was processed 
 
