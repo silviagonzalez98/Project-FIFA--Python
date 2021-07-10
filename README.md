@@ -11,9 +11,6 @@
 ### Selection of the variables to include in the model
 
 
-## Summary of the results
-
-
 ## Libraries 
 For this project, I used Python including following libraries:
 - pandas
