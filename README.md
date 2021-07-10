@@ -1,6 +1,6 @@
 # FIFA Project
 
-## Objective of the project
+## Objective of the project
 
 ## List of questions/hypothesis
 
