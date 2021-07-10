@@ -5,7 +5,11 @@
 ## List of questions/hypothesis
 
 
-## Explanation of how the data was processed (including the cleaning and selection of the variables to include in the model)
+## Explanation of how the data was processed 
+
+### Cleaning 
+
+### Selection of the variables to include in the model
 
 
 ## Summary of the results
