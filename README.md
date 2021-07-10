@@ -10,6 +10,8 @@
 
 ### Selection of the variables to include in the model
 
+### Linear Regression Results
+
 
 ## Libraries 
 For this project, I used Python including following libraries:
